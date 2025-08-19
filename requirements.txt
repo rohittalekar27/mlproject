@@ -7,4 +7,9 @@ tensorflow
 keras
 catboost
 xgboost
+dill
+scipy
+joblib
+scikit-image
+scikit-learn
 -e .
